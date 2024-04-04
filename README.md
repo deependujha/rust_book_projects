@@ -7,6 +7,7 @@
 ### Contents:
 
 1. [sort vectors (Ownership concept)](./project_01_sort_vectors_ownership)
+2. [simple project using structs & enums](./project_02_struct_and_enums)
 
 ---
 
